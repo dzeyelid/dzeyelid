@@ -1,16 +1,22 @@
-### Hi there 👋
+### Kazumi OHIRA / dz
 
-<!--
-**dzeyelid/dzeyelid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Good e-meet to you** :wave:
 
-Here are some ideas to get you started:
+- :hamster: Developer
+- :zap: Microsoft MVP for Microsoft Azure - [Profile](https://mvp.microsoft.com/en-us/PublicProfile/5002150)
+- 👩‍💻 Main organizer of [Code Polaris](https://code-polaris.connpass.com/), `#codepolaris` :sparkles:
+- :speech_balloon: Ask me about
+  - Microsoft Azure
+  - GitHub
+  - Infrastructure as Code
+  - DevOps
+  - CI/CD
+- :ocean: Communities I support as an organizer
+  - [Hack Everything.](https://hack-everything.connpass.com/), "Hack Azure" series `#hackazure`
+  - [Cogbot](https://cogbot.connpass.com/), `#cogbot`
+  - [Node-RED User Group Japan](https://node-red.connpass.com/), `#noderedjp`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Links
+
+- Twitter: [@dz_](https://twitter.com/dz_)
+- Technical blog: [Zenn](https://zenn.dev/dzeyelid)
