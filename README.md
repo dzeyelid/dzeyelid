@@ -18,5 +18,8 @@
 
 #### Links
 
-- Twitter: [@dz_](https://twitter.com/dz_)
-- Technical blog: [Zenn](https://zenn.dev/dzeyelid)
+- 🐦 Twitter: [@dz_](https://twitter.com/dz_)
+- 💻 Technical blog: [Zenn](https://zenn.dev/dzeyelid)
+- 📺 YouTube: [Kazumi OHIRA / dz](https://www.youtube.com/channel/UCzkJTJ5vMLvmcQS-7K8ViXg) <- Check it!
+  - My presentation's list 👩‍💻
+  - Playing Minecraft ⚒
