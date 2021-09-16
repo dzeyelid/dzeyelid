@@ -4,11 +4,12 @@
 
 - :hamster: Developer
 - :zap: Microsoft MVP for Microsoft Azure - [Profile](https://mvp.microsoft.com/en-us/PublicProfile/5002150)
+- belong to [ZEN ARCHITECTS](https://zenarchitects.co.jp/)
 - 👩‍💻 Main organizer of [Code Polaris](https://code-polaris.connpass.com/), `#codepolaris` :sparkles:
 - :speech_balloon: Ask me about
   - Microsoft Azure
   - GitHub
-  - Infrastructure as Code
+  - Infrastructure as Code (ARM template, Terraform)
   - DevOps
   - CI/CD
 - :ocean: Communities I support as an organizer
