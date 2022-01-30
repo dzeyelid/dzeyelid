@@ -15,7 +15,7 @@
 - :ocean: Communities I support as an organizer
   - [Hack Everything.](https://hack-everything.connpass.com/), "Hack Azure" series `#hackazure`
   - [Cogbot](https://cogbot.connpass.com/), `#cogbot`
-  - [Node-RED User Group Japan](https://node-red.connpass.com/), `#noderedjp`
+  - [Node-RED User Group Japan](https://node-red.connpass.com/), `#noderedjp` (former)
 
 #### Links
 
