@@ -1,4 +1,4 @@
-### Kazumi IWANAGA (OHIRA) / dz
+### IWANAGA Kazumi (OHIRA) / dz
 
 **Good e-meet to you** :wave:
 
@@ -9,7 +9,7 @@
 - :speech_balloon: Ask me about
   - Microsoft Azure
   - GitHub
-  - Infrastructure as Code (ARM template, Terraform)
+  - Infrastructure as Code (bicep/ARM template, Terraform)
   - DevOps
   - CI/CD
 - :ocean: Communities I support as an organizer
@@ -23,4 +23,4 @@
 - 💻 Technical blog: [Zenn](https://zenn.dev/dzeyelid)
 - 📺 YouTube: [Kazumi / dz](https://www.youtube.com/channel/UCzkJTJ5vMLvmcQS-7K8ViXg) <- Check it!
   - My presentation's list 👩‍💻
-  - Playing Minecraft ⚒, Apex Legends 🔫, and more games
+  - Playing Minecraft ⚒, Apex Legends 🔫, Splatoon 3 and more games
