@@ -21,6 +21,8 @@
 
 - 🐦 Twitter: [@dz_](https://twitter.com/dz_)
 - 💻 Technical blog: [Zenn](https://zenn.dev/dzeyelid)
-- 📺 YouTube: [Kazumi / dz](https://www.youtube.com/channel/UCzkJTJ5vMLvmcQS-7K8ViXg) <- Check it!
+- 📺 YouTube: [@dzeyelid](https://www.youtube.com/@dzeyelid) <- Check it!
   - My presentation's list 👩‍💻
-  - Playing Minecraft ⚒, Apex Legends 🔫, Splatoon 3 and more games
+  - Playing games like Minecraft ⚒, Apex Legends 🔫 and more
+- 🎮 Twitch: [@dzeyelid](https://www.twitch.tv/dzeyelid) <- Check it!
+  - Playing games like Escape from Tarkov 🪖
