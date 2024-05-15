@@ -1,4 +1,4 @@
-### Kazumi IWANAGA(OHIRA) / dz
+### Kazumi OHIRA / dz
 
 **Good e-meet to you** :wave:
 
