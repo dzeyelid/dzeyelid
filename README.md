@@ -4,7 +4,9 @@
 
 - :hamster: Developer
 - :zap: Microsoft MVP for Microsoft Azure - [Profile](https://mvp.microsoft.com/en-us/PublicProfile/5002150)
-- belong to [ZEN Architects](https://zenarchitects.co.jp/)
+- Work
+  - at [Alterbooth](https://www.alterbooth.com/)
+  - belonged to [ZEN Architects](https://zenarchitects.co.jp/) (ex)
 - :speech_balloon: Ask me about
   - Microsoft Azure
   - GitHub
@@ -14,7 +16,7 @@
 - 👩‍💻 Main organizer of [Code Polaris](https://code-polaris.connpass.com/), `#codepolaris` :sparkles:
 - 👩‍💻 Main organizer of [GitHub dockyard](https://github-dockyard.connpass.com/), `#GitHubDockyard` :sparkles:
 - :ocean: Communities I support as an organizer
-  - [Hack Everything.](https://hack-everything.connpass.com/), "Hack Azure" series `#hackazure`
+  - [Hack Everything.](https://hack-everything.connpass.com/), "Hack Azure" series `#hackazure` (ex)
   - [Cogbot](https://cogbot.connpass.com/), `#cogbot`
   - [Node-RED User Group Japan](https://node-red.connpass.com/), `#noderedjp` (ex)
 
