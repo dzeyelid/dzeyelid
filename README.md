@@ -5,6 +5,7 @@
 - :breast_feeding: Mother
 - :hamster: Developer
 - :zap: Microsoft MVP for Microsoft Azure, Developer Technologies - [Profile](https://mvp.microsoft.com/en-us/PublicProfile/5002150)
+- :star2: GitHub Star - [Profile](https://stars.github.com/profiles/dzeyelid/)
 - Work
   - at [Alterbooth](https://www.alterbooth.com/) currently
   - belonged to [ZEN Architects](https://zenarchitects.co.jp/) (formerly)
