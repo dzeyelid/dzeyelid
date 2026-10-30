@@ -5,13 +5,13 @@
 - :breast_feeding: Mother
 - :hamster: Developer
 - :star2: GitHub Star - [Profile](https://stars.github.com/profiles/dzeyelid/)
-- :zap: Microsoft MVP for Microsoft Azure, Developer Technologies (formerly)
+- :zap: ex-Microsoft MVP for Microsoft Azure, Developer Technologies (formerly)
 - Work
   - at [Alterbooth](https://www.alterbooth.com/) currently
   - belonged to [ZEN Architects](https://zenarchitects.co.jp/) (formerly)
 - :speech_balloon: Ask me about
-  - Microsoft Azure
   - GitHub
+  - Microsoft Azure
   - Infrastructure as Code (bicep/ARM template, Terraform)
   - DevOps
   - CI/CD
